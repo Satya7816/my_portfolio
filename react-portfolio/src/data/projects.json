@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Expense tracker",
+    "imageSrc": "projects/project1.png",
+    "description": "Efficiently track and manage your expenses with this intuitive and user-friendly expense tracker app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Satya7816"
+  },
+  {
+    "title": "Food delivery app",
+    "imageSrc": "projects/project2.png",
+    "description": "An online food delivery app that brings your favorite meals to your doorstep with a few taps on your mobile device",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Satya7816"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project3.png",
+    "description": "A personalized portfolio website showcasing my skills, projects, and professional journey in a visually engaging manner.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Satya7816"
+  }
+]
